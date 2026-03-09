@@ -78,7 +78,7 @@ body {
 
 table {
   border-collapse: collapse;
-  border: 2px solid rgb(140 140 140);
+  border: 2px solid #096C6C;
   letter-spacing: 1px;
 }
 
@@ -90,6 +90,6 @@ tfoot {
 
 th,
 td {
-  border: 1px solid rgb(160 160 160);
+  border: 1px solid #096C6C;
   padding: 8px 10px;
 }
